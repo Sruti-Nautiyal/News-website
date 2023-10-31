@@ -13,9 +13,11 @@ It is a news website developed with the help of reactJS.
 To run this project,install it locally using:
 ```
  git clone https://github.com/Sruti-Nautiyal/mern.git
- 
 ```
 
 ## Project setup:
 
 Start a new react Project using
+```
+ npx create-react-app app-name
+```
